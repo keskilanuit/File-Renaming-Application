@@ -1,4 +1,4 @@
-# Filing-Renaming-Application
+# File-Renaming-Application
 
 application that helps to rename mass amount of files.
 
